@@ -26,6 +26,7 @@ const Search = () => {
         <InputSearchBase
         placeholder='Search what do you want ?'
         />
+        {/* reat code */}
         < SearchIconWrapper>
          {/* <SearchIcon/> */}
         </ SearchIconWrapper>
